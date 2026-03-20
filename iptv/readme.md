@@ -59,6 +59,9 @@ Chromecast Support
         It is good!
 
 
+    2026 List
+        https://www.wirelesshack.org/best-free-m3u-playlist-urls.html
+
 
 [Prompts](prompts/readme.md)
 
